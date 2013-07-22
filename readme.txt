@@ -1,0 +1,1 @@
+This is a sample android app for testing MediaCodec API. 
